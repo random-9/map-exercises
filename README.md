@@ -1,6 +1,5 @@
 # Map Exercises
 Part of Functional Programming coding exercise, focused on the .map method.
-
 This section will include questions which I have come across while learning functional programming.
 
 ## Introduction
