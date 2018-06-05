@@ -1,9 +1,10 @@
 # Map Exercises
 Part of Functional Programming coding exercise, focused on the .map method.
+
 This section will include questions which I have come across while learning functional programming.
 
 ## Introduction
-Map is a method on the array prototype in JavaScript. It takes one (required) parameter: the function you want called on each element in the array. A good practice would be to make a named function, making them resuseable.
+Map is a method on the array prototype in JavaScript. It takes one (required) parameter: the function you want called on each element in the array. A good practice would be to make a named function, making them reuseable.
 
 ## Question 1
 Make a function named doubleEach. doubleEach takes in an array and returns an array where every element in the array is doubled. Do not use a loop.
